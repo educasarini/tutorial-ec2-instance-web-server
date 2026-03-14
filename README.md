@@ -2,7 +2,7 @@
 
 Este repositório contém a entrega da atividade ponderada de **Elaboração de uma Aplicação Integrada com Banco de Dados**. O projeto consiste em uma aplicação web funcional de Gerenciamento de Inventário, implantada em uma arquitetura de nuvem (AWS) utilizando um servidor de aplicação e um banco de dados relacional gerenciado.
 
-🎥 **[CLIQUE AQUI PARA ASSISTIR AO VÍDEO DE DEMONSTRAÇÃO](COLOQUE_SEU_LINK_DO_YOUTUBE_AQUI)**
+🎥 **[CLIQUE AQUI PARA ASSISTIR AO VÍDEO DE DEMONSTRAÇÃO](https://youtu.be/ACIEcGRjNis)**
 
 ---
 
