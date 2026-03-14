@@ -1,8 +1,8 @@
 <?php
 // Configurações do Banco de Dados
-$host = 'SEU_ENDPOINT_DO_RDS';
+$host = 'tutorial-db-instance.cxcwoc40i59h.us-east-1.rds.amazonaws.com';
 $user = 'admin';
-$pass = 'SUA_SENHA_DO_RDS';
+$pass = 'EAC04052007eac';
 $db   = 'inventario';
 
 // Conexão
